@@ -21,12 +21,12 @@ export default defineAppConfig({
       links: [],
     },
     aside: {
-      useLevel: false,
-      collapse: true,
+      useLevel: true,
+      collapse: false,
     },
     main: {
       breadCrumb: true,
-      showTitle: false,
+      showTitle: true,
     },
     footer: {
       credits: '#ghostVPN © 2023-2025. Сюда и так никто не посмотрит',
