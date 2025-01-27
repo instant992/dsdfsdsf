@@ -45,7 +45,7 @@ export default defineAppConfig({
       title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: ':smart-icon{name="https://vpnghost.space/manual/tg.svg"}',
+        icon: ':smart-icon{name="https://vpnghost.space/manual/tg.svg" size=30}',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
