@@ -47,7 +47,7 @@ export default defineAppConfig({
       }],
     },
     search: {
-      enable: true,
+      enable: false,
       inAside: false,
     }
   }

@@ -1,31 +1,16 @@
 ---
-title: Home
-navigation: false
+title: NekoRay
+description: Рассказываем, как настроить раздельное туннелирование для нужных приложений или сайтов в клиенте NekoRay
 ---
 
-::hero
----
-announcement:
-  title: 'Release v0.8.12'
-  icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
-  target: _blank
-actions:
-  - name: Get Started
-    to: /system/
-  - name: GitHub
-    variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
-    leftIcon: 'lucide:github'
----
 
-#title
-Effortless and Beautiful :br Docs Template.
 
-#description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
-::
 
-::div{class="border rounded-lg shadow-md"}
-  :iframe{src="/system/start" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
-::
+## Как обновить подписку в приложение NekoRay (На Windows)
+<b>1 вариант: комбинация клавиш "CTRL + U"</b>
+
+
+<b><center>2 вариант:</center></b>
+
+
+![Alt text for the image](https://vpnghost.space/manual/nekoray.jpg)
