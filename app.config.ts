@@ -22,10 +22,10 @@ export default defineAppConfig({
     },
     aside: {
       useLevel: true,
-      collapse: true,
+      collapse: false,
     },
     main: {
-      breadCrumb: false,
+      breadCrumb: true,
       showTitle: true,
     },
     footer: {
