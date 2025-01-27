@@ -45,7 +45,7 @@ export default defineAppConfig({
       title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: ':smart-icon{name="lucide:box"}',
+        icon: ':smart-icon{name="https://img.icons8.com/?size=100&id=103814&format=png&color=000000"}',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
