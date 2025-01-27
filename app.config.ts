@@ -41,7 +41,7 @@ export default defineAppConfig({
       title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: '👻',
+        icon: 'lucide:ghost',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
