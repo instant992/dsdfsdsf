@@ -42,10 +42,10 @@ export default defineAppConfig({
     },
     toc: {
       enable: true,
-      title: 'On This Page',
+      title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: 'lucide:star',
+        icon: 'lucide:telegram',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
