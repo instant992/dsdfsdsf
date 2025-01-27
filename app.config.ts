@@ -33,10 +33,10 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
+      credits: '#ghostVPN © 2023-2025. Сюда и так никто не посмотрит',
       links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        icon: '🦊',
+        to: 'https://t.me/Ghost552',
         target: '_blank',
       }],
     },
@@ -45,7 +45,7 @@ export default defineAppConfig({
       title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: ':smart-icon{name="👻"}',
+        icon: '👻',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
