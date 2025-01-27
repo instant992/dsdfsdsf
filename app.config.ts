@@ -21,11 +21,11 @@ export default defineAppConfig({
       links: [],
     },
     aside: {
-      useLevel: false,
+      useLevel: true,
       collapse: false,
     },
     main: {
-      breadCrumb: true,
+      breadCrumb: false,
       showTitle: true,
     },
     footer: {
