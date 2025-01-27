@@ -1,3 +1,5 @@
 title: Главная
 icon: system-uicons:home-alt'
 navigation.redirect: /docs/start
+sidebar:
+  style: default
