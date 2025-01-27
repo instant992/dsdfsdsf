@@ -44,14 +44,9 @@ export default defineAppConfig({
       enable: true,
       title: 'On This Page',
       links: [{
-        title: 'Star on GitHub',
+        title: 'Купить подписку',
         icon: 'lucide:star',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-        target: '_blank',
-      }, {
-        title: 'Create Issues',
-        icon: 'lucide:circle-dot',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
+        to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
     },
