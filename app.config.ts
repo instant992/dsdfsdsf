@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: '#ghostVPN',
+      description: 'Инструкция по настройке ghostVPN на разных устройствах',
     },
     theme: {
       customizable: true,
