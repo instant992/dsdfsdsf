@@ -5,13 +5,8 @@ navigation: false
 
 ::hero
 ---
-announcement:
-  title: 'Release v0.8.12'
-  icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
-  target: _blank
 actions:
-  - name: Get Started
+  - name: Перейти
     to: /system/
   - name: GitHub
     variant: outline
@@ -20,7 +15,7 @@ actions:
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+#ghostVPN - быстрый и качественный впн сервис.
 
 #description
 Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
