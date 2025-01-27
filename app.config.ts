@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: '#ghostVPN',
       showTitle: true,
       darkModeToggle: true,
       logo: {
