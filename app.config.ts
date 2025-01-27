@@ -45,7 +45,7 @@ export default defineAppConfig({
       title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: ':smart-icon{name="vscode-icons:file-type-vue"}',
+        icon: ':smart-icon{name="/public/logo.svg"}',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
