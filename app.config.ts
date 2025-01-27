@@ -45,7 +45,7 @@ export default defineAppConfig({
       title: 'На этой странице',
       links: [{
         title: 'Купить подписку',
-        icon: ':smart-icon{name="logos:telegram"}',
+        icon: ':smart-icon{name="lucide:box"}',
         to: 'https://t.me/vpnghostbot',
         target: '_blank',
       }],
