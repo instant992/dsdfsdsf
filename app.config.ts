@@ -26,7 +26,7 @@ export default defineAppConfig({
     },
     main: {
       breadCrumb: true,
-      showTitle: true,
+      showTitle: false,
     },
     footer: {
       credits: '#ghostVPN © 2023-2025. Сюда и так никто не посмотрит',
